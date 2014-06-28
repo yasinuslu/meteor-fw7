@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "fw7": {
+        "path": ".."
+      }
+    },
+    "packages": {
+      "fw7": {
+        "path": ".."
+      }
+    }
+  }
+}
